@@ -1,2 +1,3 @@
 # demo-repo
-learning git 
+
+doing first commit
